@@ -10,6 +10,7 @@ import org.junit.runner.RunWith;
 import static org.junit.Assert.*;
 
 /**
+ * This is test2
  * This is test1 
  * Instrumentation test, which will execute on an Android device.
  *
